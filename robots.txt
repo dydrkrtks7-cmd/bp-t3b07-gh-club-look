@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mangwon-room-note.go-hapjeong-club.xyz/sitemap.xml
